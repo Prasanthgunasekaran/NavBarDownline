@@ -17,7 +17,7 @@ function SearchInput() {
                     <Command.Item>BA</Command.Item>
                 </Command.Group>
             </Command.List>
-            <Link to={"/nav"}>Navbar</Link>
+            <Link to={"/"}>Navbar</Link>
         </Command>
     )
 }
